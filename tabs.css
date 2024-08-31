@@ -30,3 +30,5 @@ font-size: 85%;
 border-width: 1px 1px 0px 1px !important;
 border-color: #653682 !important;
 {
+
+.markdown-body blockquote { padding: 0 1em; /* color: var(--fgColor-muted, var(--color-fg-muted)); */ border-left: .25em solid var(--borderColor-default, var(--color-border-default)); } 
