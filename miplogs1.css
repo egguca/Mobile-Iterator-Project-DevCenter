@@ -75,7 +75,7 @@ overflow: auto;
     }
 
     .lbox2 {
-        background: #19181e;
+        background: #19181e !important;
     padding: 4%;
       color: #cdcccd;
       margin-top: 15px;
